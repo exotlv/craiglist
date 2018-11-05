@@ -1,4 +1,4 @@
-WalletHub app Test
+Craiglist app Test
 =======================
 
 Sample test project automating _craiglist.org_ page. 
